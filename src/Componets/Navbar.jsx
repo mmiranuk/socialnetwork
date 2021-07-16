@@ -13,7 +13,7 @@ const Navbar=() =>{
         <a>News</a>
       </div>
       <div>
-        <a>Music123</a>
+        <a>Music</a>
       </div>
       <div>
         <a>Settings</a>
