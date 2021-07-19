@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './Componets/Header/Header';
 import Navbar from './Componets/Navbar/Navbar';
-import Profile from './Componets/Profile/Profile';
+import Profile from './Componets/Profile/Profile.jsx';
 
 
 const App = () => {
@@ -11,6 +11,7 @@ const App = () => {
       <Header />
       <Navbar />
       <Profile />
+
     </div>
 
   );
