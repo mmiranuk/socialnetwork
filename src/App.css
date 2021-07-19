@@ -21,24 +21,3 @@ a {
   grid-template-columns: 2fr 10fr;
     grid-gap: 10px;
 }
-
-.header{
-grid-area: h;
-background-color: rgb(186, 186, 197);
-}
-.header img{
-  width: 100px;
-}
-
-.nav{
-  grid-area: n;
-  background-color: darkcyan;
-
-}
-
-.content{
-padding-left: 15px;
-grid-area: c;
-background-color: darkkhaki;
-
-}

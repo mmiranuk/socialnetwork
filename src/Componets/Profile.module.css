@@ -1,0 +1,9 @@
+.content{
+  padding-left: 15px;
+  grid-area: c;
+  background-color: darkkhaki;
+  
+  }
+  .item{
+    color: crimson;
+  }
