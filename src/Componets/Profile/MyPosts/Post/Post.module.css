@@ -1,8 +1,16 @@
   .item{
+    display: flex;
+    justify-content: flex-start;
     color: crimson;
-  }
+    padding: 10px;
+      }
   .item img{
     width: 70px;
     height: 70px;
     border-radius: 50px;
+    margin: 10px;
+  }
+  .likes{
+    color: crimson;
+    margin-left: 10px;
   }
